@@ -1,7 +1,4 @@
-%This code is for Paul's rig. It will monitor a user selected zone for
-%light turn on and then use that info pluse an empirically defined delay to
-%determine when red light turns on. Will then plot Speed and Curvature show
-%periods of light off in black and periods of light on in red.
+
 clear; close all
 %find the folder we are in, this should be where the videos are
 currFolder = pwd;
